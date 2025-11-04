@@ -2,11 +2,6 @@
 
 A comprehensive project for fine-tuning and testing T5 and BART transformer models for text summarization tasks using the XSUM dataset.
 
-![Project Overview](images/1.jpg)
-![Model Architecture](images/2.jpg)
-![Training Process](images/3.jpg)
-![Results](images/4.jpg)
-
 ## 📋 Overview
 
 This project implements text summarization using state-of-the-art transformer models:
@@ -153,3 +148,11 @@ This project is open source and available under the MIT License.
 - Google Research for the T5 model
 - Facebook AI Research for the BART model
 - BBC for the XSUM dataset
+
+
+### Results:
+
+![Project Overview](images/1.jpg)
+![Model Architecture](images/2.jpg)
+![Training Process](images/3.jpg)
+![Results](images/4.jpg)
